@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bowling_Game", "Bowling_Game\Bowling_Game.csproj", "{FAF0BA4D-C00B-40AC-8E45-915D08F8839F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BowlingGameUnitTest", "BowlingGameUnitTest\BowlingGameUnitTest.csproj", "{0434FB62-4330-4241-82A5-B305F39968F7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FAF0BA4D-C00B-40AC-8E45-915D08F8839F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAF0BA4D-C00B-40AC-8E45-915D08F8839F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAF0BA4D-C00B-40AC-8E45-915D08F8839F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAF0BA4D-C00B-40AC-8E45-915D08F8839F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0434FB62-4330-4241-82A5-B305F39968F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0434FB62-4330-4241-82A5-B305F39968F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0434FB62-4330-4241-82A5-B305F39968F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0434FB62-4330-4241-82A5-B305F39968F7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B621385F-734A-439A-AC48-6F63C269F864}
+	EndGlobalSection
+EndGlobal
